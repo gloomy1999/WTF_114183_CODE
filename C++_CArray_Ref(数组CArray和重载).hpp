@@ -3,12 +3,14 @@
 * Date: 2019-03-24
 * Contaction: yaoy@cug.edu.cn
 * Attention 1: 未调试，仅作为C++作业demo参考语法。内可能有大量逻辑错误。
-* Attention 2: 请勿抄袭。
+* Attention 2: 请勿抄袭！！！
 * Attention 3: 学会内存操作函数（memset, memcpy）
 ************************************************/
 
 #ifndef YY_CPP_QUESTION_ARRAY
 #define YY_CPP_QUESTION_ARRAY
+
+#include <windows.h>
 
 class CArray{
 public:
